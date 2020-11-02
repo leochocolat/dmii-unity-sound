@@ -128,7 +128,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Git Large File Storage
-*.glb
-*.hbx
-*.gltf
-*.obj
+# *.glb
+# *.hbx
+# *.gltf
+# *.obj
