@@ -126,3 +126,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Git Large File Storage
+*.glb
+*.hbx
+*.gltf
+*.obj
